@@ -1,0 +1,961 @@
+incident_id,customer_id,occurred_on,incident_type,cause_code,region,description
+INC-CLM-2026-000001,CUS-000109,2026-10-13,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000002,CUS-000602,2026-09-23,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000003,CUS-000499,2026-08-13,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000004,CUS-000402,2026-02-04,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000005,CUS-000286,2025-10-19,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000006,CUS-000599,2024-10-23,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000007,CUS-000573,2026-05-01,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000008,CUS-000016,2025-09-05,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000009,CUS-000422,2026-05-04,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000010,CUS-000061,2026-04-11,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000011,CUS-001297,2025-07-15,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000012,CUS-000962,2026-04-16,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000013,CUS-000425,2026-08-30,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000014,CUS-000392,2025-09-06,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000015,CUS-000981,2026-01-10,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000016,CUS-000284,2026-03-01,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000017,CUS-000093,2025-08-30,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000018,CUS-000416,2026-02-12,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000019,CUS-000577,2025-08-02,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000020,CUS-000365,2026-05-02,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000021,CUS-000460,2025-02-16,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000022,CUS-000778,2024-08-20,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000023,CUS-001117,2025-07-01,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000024,CUS-001283,2026-02-19,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000025,CUS-000389,2026-08-29,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000026,CUS-000353,2026-05-28,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000027,CUS-000332,2025-02-02,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000028,CUS-000495,2026-02-23,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000029,CUS-001162,2024-10-28,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000030,CUS-000624,2024-09-22,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000031,CUS-000331,2024-08-11,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000032,CUS-000654,2026-06-26,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000033,CUS-001038,2025-07-05,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000034,CUS-000927,2025-11-09,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000035,CUS-000276,2026-08-17,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000036,CUS-000500,2024-08-23,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000037,CUS-000769,2026-03-17,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000038,CUS-000093,2026-03-10,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000039,CUS-000456,2026-06-20,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000040,CUS-000288,2025-08-15,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000041,CUS-000138,2025-06-02,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000042,CUS-000557,2026-02-02,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000043,CUS-000268,2026-08-15,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000044,CUS-000487,2025-10-03,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000045,CUS-000677,2026-06-25,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000046,CUS-000958,2026-10-18,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000047,CUS-000699,2026-09-09,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000048,CUS-001115,2025-03-24,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000049,CUS-000472,2025-05-23,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000050,CUS-001153,2025-03-16,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000051,CUS-000564,2025-08-07,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000052,CUS-000051,2025-11-20,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000053,CUS-000085,2024-06-11,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000054,CUS-000492,2026-07-02,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000055,CUS-000038,2026-02-21,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000056,CUS-000576,2026-06-28,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000057,CUS-000966,2026-04-25,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000058,CUS-000077,2026-09-04,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000059,CUS-000352,2026-06-16,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000060,CUS-000355,2024-11-17,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000061,CUS-001202,2026-03-27,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000062,CUS-000188,2025-11-18,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000063,CUS-001205,2026-08-04,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000064,CUS-000012,2026-06-18,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000065,CUS-001172,2025-11-25,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000066,CUS-000002,2025-10-15,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000067,CUS-000056,2024-06-05,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000068,CUS-000336,2025-01-02,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000069,CUS-000432,2024-10-28,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000070,CUS-000621,2024-07-29,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000071,CUS-000289,2024-06-08,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000072,CUS-000534,2026-08-03,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000073,CUS-000496,2026-01-09,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000074,CUS-000019,2025-04-18,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000075,CUS-000968,2026-06-20,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000076,CUS-000801,2025-12-14,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000077,CUS-000677,2026-05-05,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000078,CUS-000684,2026-07-19,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000079,CUS-000009,2026-06-15,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000080,CUS-000641,2026-09-04,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000081,CUS-000501,2025-03-02,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000082,CUS-000358,2026-06-15,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000083,CUS-000597,2026-07-14,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000084,CUS-001221,2025-08-29,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000085,CUS-000234,2025-11-22,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000086,CUS-000172,2026-08-08,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000087,CUS-000084,2026-06-18,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000088,CUS-000257,2026-01-01,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000089,CUS-000655,2025-12-03,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000090,CUS-001011,2026-10-03,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000091,CUS-000005,2026-08-19,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000092,CUS-000135,2024-09-30,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000093,CUS-000188,2026-02-12,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000094,CUS-000716,2025-12-30,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000095,CUS-000103,2026-01-21,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000096,CUS-000102,2026-09-25,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000097,CUS-000329,2025-12-02,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000098,CUS-000367,2026-07-07,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000099,CUS-000393,2025-09-02,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000100,CUS-001128,2026-03-04,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000101,CUS-001239,2025-02-26,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000102,CUS-000351,2025-10-07,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000103,CUS-000636,2025-04-17,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000104,CUS-000191,2026-09-18,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000105,CUS-001274,2026-01-07,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000106,CUS-000201,2024-07-14,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000107,CUS-000740,2025-10-31,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000108,CUS-000556,2025-02-04,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000109,CUS-000404,2026-09-09,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000110,CUS-000565,2025-06-26,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000111,CUS-000106,2024-09-27,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000112,CUS-000223,2026-09-16,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000113,CUS-000174,2026-08-03,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000114,CUS-000604,2026-09-26,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000115,CUS-000354,2026-09-18,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000116,CUS-001050,2025-11-21,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000117,CUS-001269,2025-01-30,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000118,CUS-000334,2025-04-29,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000119,CUS-001082,2026-09-29,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000120,CUS-000369,2025-06-19,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000121,CUS-000208,2024-06-24,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000122,CUS-000096,2026-10-03,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000123,CUS-000595,2024-10-31,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000124,CUS-000694,2025-12-29,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000125,CUS-000717,2024-03-26,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000126,CUS-001004,2025-09-28,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000127,CUS-000900,2026-03-21,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000128,CUS-001218,2024-08-23,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000129,CUS-000298,2024-06-12,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000130,CUS-000331,2025-03-18,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000131,CUS-000230,2025-10-21,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000132,CUS-000053,2026-10-13,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000133,CUS-000388,2025-04-05,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000134,CUS-000770,2026-03-12,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000135,CUS-000391,2026-01-15,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000136,CUS-000402,2026-02-13,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000137,CUS-000116,2026-05-20,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000138,CUS-000967,2025-01-04,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000139,CUS-000078,2026-01-13,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000140,CUS-000369,2024-12-17,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000141,CUS-000594,2026-02-09,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000142,CUS-000180,2024-05-04,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000143,CUS-000256,2026-05-04,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000144,CUS-000503,2026-01-12,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000145,CUS-000151,2024-05-13,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000146,CUS-000058,2025-04-15,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000147,CUS-000951,2025-02-26,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000148,CUS-000888,2026-09-15,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000149,CUS-001240,2025-05-17,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000150,CUS-000948,2026-04-12,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000151,CUS-000322,2026-09-04,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000152,CUS-000869,2025-10-12,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000153,CUS-000145,2026-03-20,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000154,CUS-000046,2025-04-20,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000155,CUS-000436,2025-07-11,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000156,CUS-000080,2024-11-17,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000157,CUS-000472,2026-05-30,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000158,CUS-000939,2026-05-27,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000159,CUS-000781,2025-12-22,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000160,CUS-000476,2025-08-28,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000161,CUS-000966,2026-01-23,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000162,CUS-001117,2026-01-05,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000163,CUS-000566,2026-04-06,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000164,CUS-000413,2026-04-14,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000165,CUS-000024,2025-08-01,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000166,CUS-000550,2025-11-06,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000167,CUS-000449,2024-12-29,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000168,CUS-000357,2026-04-08,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000169,CUS-000529,2026-01-13,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000170,CUS-001095,2026-05-29,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000171,CUS-001051,2025-09-27,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000172,CUS-000543,2026-03-18,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000173,CUS-000225,2025-11-24,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000174,CUS-000428,2025-12-10,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000175,CUS-000845,2026-07-16,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000176,CUS-000122,2025-11-23,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000177,CUS-001217,2026-02-17,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000178,CUS-000303,2026-05-20,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000179,CUS-000018,2026-08-07,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000180,CUS-001081,2026-06-17,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000181,CUS-000599,2024-08-13,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000182,CUS-000499,2025-01-01,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000183,CUS-000863,2025-05-05,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000184,CUS-000479,2025-09-01,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000185,CUS-000354,2026-06-27,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000186,CUS-000395,2024-12-02,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000187,CUS-000395,2025-09-09,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000188,CUS-000126,2026-03-02,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000189,CUS-000690,2025-11-26,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000190,CUS-000502,2026-09-26,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000191,CUS-000550,2026-10-06,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000192,CUS-000598,2025-06-11,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000193,CUS-001232,2025-05-25,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000194,CUS-000383,2026-02-06,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000195,CUS-000519,2026-03-03,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000196,CUS-000049,2026-06-11,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000197,CUS-001163,2025-11-19,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000198,CUS-000914,2026-05-03,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000199,CUS-000414,2025-10-22,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000200,CUS-000769,2026-01-15,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000201,CUS-000602,2025-12-23,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000202,CUS-000296,2025-10-13,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000203,CUS-000643,2025-04-17,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000204,CUS-000390,2026-02-01,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000205,CUS-000933,2025-06-09,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000206,CUS-000378,2024-06-10,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000207,CUS-000333,2025-12-08,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000208,CUS-000171,2025-05-06,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000209,CUS-000323,2026-10-16,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000210,CUS-001105,2026-01-16,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000211,CUS-000108,2025-04-14,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000212,CUS-000773,2026-04-10,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000213,CUS-000474,2025-12-18,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000214,CUS-000808,2025-12-23,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000215,CUS-000094,2026-04-05,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000216,CUS-000986,2025-04-05,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000217,CUS-000461,2025-11-19,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000218,CUS-000200,2025-04-05,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000219,CUS-000357,2025-07-29,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000220,CUS-000113,2026-07-22,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000221,CUS-000074,2025-09-21,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000222,CUS-001102,2026-07-01,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000223,CUS-000566,2026-07-09,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000224,CUS-000066,2026-02-23,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000225,CUS-001292,2026-03-23,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000226,CUS-000734,2025-09-02,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000227,CUS-000755,2026-03-17,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000228,CUS-001117,2025-12-05,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000229,CUS-001021,2026-09-30,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000230,CUS-000507,2025-05-21,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000231,CUS-000290,2025-02-14,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000232,CUS-000241,2026-09-13,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000233,CUS-000433,2025-09-03,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000234,CUS-000506,2026-07-29,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000235,CUS-000230,2026-05-17,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000236,CUS-000569,2025-05-14,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000237,CUS-000476,2025-12-09,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000238,CUS-000103,2025-03-14,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000239,CUS-000803,2026-03-03,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000240,CUS-000419,2025-09-26,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000241,CUS-000972,2026-09-10,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000242,CUS-000061,2026-02-26,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000243,CUS-000063,2026-06-14,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000244,CUS-000907,2025-05-23,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000245,CUS-000721,2024-08-30,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000246,CUS-001173,2026-02-02,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000247,CUS-000872,2025-09-03,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000248,CUS-000832,2026-09-30,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000249,CUS-000609,2026-08-17,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000250,CUS-000735,2026-02-01,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000251,CUS-000403,2024-08-24,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000252,CUS-000397,2025-05-29,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000253,CUS-000590,2024-10-15,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000254,CUS-001121,2025-11-22,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000255,CUS-001241,2025-10-13,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000256,CUS-000971,2025-11-23,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000257,CUS-000702,2025-01-19,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000258,CUS-000628,2026-02-06,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000259,CUS-000501,2024-09-23,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000260,CUS-000578,2025-08-21,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000261,CUS-000202,2025-07-02,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000262,CUS-001018,2025-03-08,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000263,CUS-001129,2026-09-18,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000264,CUS-000407,2026-06-18,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000265,CUS-000485,2025-12-01,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000266,CUS-000147,2026-03-06,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000267,CUS-000986,2026-06-24,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000268,CUS-000648,2026-04-25,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000269,CUS-000583,2026-05-07,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000270,CUS-000232,2025-12-31,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000271,CUS-000364,2025-09-21,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000272,CUS-001028,2024-08-13,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000273,CUS-000932,2026-03-08,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000274,CUS-001143,2025-02-06,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000275,CUS-000035,2026-02-13,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000276,CUS-000203,2026-01-13,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000277,CUS-000561,2025-11-14,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000278,CUS-000029,2025-05-13,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000279,CUS-000324,2025-03-23,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000280,CUS-000995,2025-08-21,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000281,CUS-001261,2026-01-22,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000282,CUS-001190,2026-06-24,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000283,CUS-000820,2026-03-26,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000284,CUS-000912,2026-01-30,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000285,CUS-000343,2026-03-12,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000286,CUS-000334,2025-04-02,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000287,CUS-000501,2025-03-21,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000288,CUS-000282,2026-10-21,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000289,CUS-000912,2025-07-21,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000290,CUS-000627,2025-05-24,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000291,CUS-000809,2025-07-13,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000292,CUS-000125,2026-03-04,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000293,CUS-000562,2025-08-01,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000294,CUS-000277,2026-05-04,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000295,CUS-001250,2026-09-01,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000296,CUS-000535,2026-02-04,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000297,CUS-000807,2025-02-04,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000298,CUS-001292,2025-01-10,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000299,CUS-000292,2024-08-07,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000300,CUS-001015,2026-03-20,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000301,CUS-000222,2026-02-24,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000302,CUS-000394,2024-12-18,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000303,CUS-000600,2025-07-29,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000304,CUS-000120,2025-05-31,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000305,CUS-000759,2026-08-03,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000306,CUS-000258,2025-02-06,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000307,CUS-000343,2025-12-10,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000308,CUS-000222,2026-10-16,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000309,CUS-000458,2025-01-20,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000310,CUS-000243,2026-01-12,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000311,CUS-000606,2024-10-12,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000312,CUS-000760,2026-03-15,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000313,CUS-000532,2025-07-07,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000314,CUS-000383,2024-11-06,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000315,CUS-000527,2025-04-09,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000316,CUS-000331,2026-03-09,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000317,CUS-000206,2025-05-12,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000318,CUS-000383,2026-06-12,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000319,CUS-001142,2026-06-26,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000320,CUS-000216,2024-06-18,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000321,CUS-000220,2025-07-21,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000322,CUS-000046,2026-09-05,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000323,CUS-000612,2026-02-13,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000324,CUS-000169,2026-05-16,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000325,CUS-000112,2026-05-23,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000326,CUS-000111,2026-02-08,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000327,CUS-000494,2026-05-08,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000328,CUS-000649,2026-04-19,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000329,CUS-000490,2024-12-06,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000330,CUS-001062,2025-12-11,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000331,CUS-000485,2025-12-29,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000332,CUS-000759,2026-09-22,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000333,CUS-000308,2026-06-28,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000334,CUS-000442,2026-03-10,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000335,CUS-000298,2024-11-11,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000336,CUS-001084,2026-03-08,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000337,CUS-000470,2026-02-09,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000338,CUS-000002,2025-10-30,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000339,CUS-000788,2025-02-24,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000340,CUS-000267,2026-08-03,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000341,CUS-001018,2026-04-30,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000342,CUS-000931,2026-01-24,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000343,CUS-000191,2026-03-22,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000344,CUS-000687,2025-10-24,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000345,CUS-000159,2026-03-19,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000346,CUS-000049,2026-02-02,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000347,CUS-000405,2026-09-07,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000348,CUS-000059,2025-09-14,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000349,CUS-000884,2025-07-31,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000350,CUS-000062,2026-03-12,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000351,CUS-000284,2026-05-05,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000352,CUS-000997,2025-03-25,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000353,CUS-000287,2026-07-02,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000354,CUS-000013,2025-10-11,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000355,CUS-000628,2026-07-01,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000356,CUS-000578,2025-11-11,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000357,CUS-000545,2025-03-21,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000358,CUS-000888,2026-08-31,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000359,CUS-001038,2025-11-23,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000360,CUS-000821,2025-10-02,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000361,CUS-000314,2025-11-15,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000362,CUS-000504,2024-03-24,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000363,CUS-001132,2026-07-20,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000364,CUS-000513,2026-07-08,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000365,CUS-000060,2025-10-08,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000366,CUS-001161,2025-12-03,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000367,CUS-000197,2025-01-03,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000368,CUS-000744,2026-06-29,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000369,CUS-000233,2026-06-25,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000370,CUS-000785,2026-01-01,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000371,CUS-000451,2026-06-30,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000372,CUS-000672,2025-03-22,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000373,CUS-000207,2026-02-09,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000374,CUS-000160,2026-02-04,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000375,CUS-000384,2025-11-19,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000376,CUS-000632,2026-02-16,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000377,CUS-000647,2025-10-27,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000378,CUS-000276,2026-05-07,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000379,CUS-000153,2025-10-12,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000380,CUS-000652,2026-06-01,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000381,CUS-000204,2025-09-02,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000382,CUS-000485,2026-01-03,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000383,CUS-000149,2026-03-05,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000384,CUS-000037,2024-05-05,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000385,CUS-000817,2024-08-25,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000386,CUS-000942,2026-02-26,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000387,CUS-000271,2025-05-23,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000388,CUS-000095,2024-05-14,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000389,CUS-000387,2026-05-04,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000390,CUS-000488,2026-06-05,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000391,CUS-000483,2026-08-12,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000392,CUS-001005,2024-11-27,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000393,CUS-000076,2025-08-13,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000394,CUS-000588,2026-03-16,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000395,CUS-000649,2026-10-15,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000396,CUS-000507,2026-08-03,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000397,CUS-000667,2025-03-03,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000398,CUS-000195,2026-07-19,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000399,CUS-000651,2025-11-22,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000400,CUS-000211,2025-06-23,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000401,CUS-000602,2026-02-10,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000402,CUS-001275,2025-11-06,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000403,CUS-000894,2024-08-26,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000404,CUS-000551,2024-09-19,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000405,CUS-001207,2026-05-15,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000406,CUS-000563,2026-03-18,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000407,CUS-000391,2026-07-25,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000408,CUS-000654,2025-08-02,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000409,CUS-000820,2026-08-24,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000410,CUS-000019,2026-03-24,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000411,CUS-000678,2025-12-15,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000412,CUS-001270,2025-01-31,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000413,CUS-000556,2025-04-09,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000414,CUS-000599,2024-08-16,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000415,CUS-001211,2025-02-27,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000416,CUS-000997,2024-07-18,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000417,CUS-000666,2026-05-27,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000418,CUS-000924,2026-03-28,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000419,CUS-000110,2025-08-03,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000420,CUS-000806,2026-05-08,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000421,CUS-000430,2024-05-14,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000422,CUS-000674,2025-09-19,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000423,CUS-000210,2026-03-01,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000424,CUS-000255,2024-06-16,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000425,CUS-000068,2026-09-13,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000426,CUS-000880,2025-03-22,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000427,CUS-000625,2026-02-26,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000428,CUS-001023,2026-02-12,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000429,CUS-001023,2026-05-19,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000430,CUS-000017,2024-08-18,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000431,CUS-000654,2026-05-20,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000432,CUS-000444,2025-11-03,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000433,CUS-000094,2025-12-31,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000434,CUS-000984,2025-09-23,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000435,CUS-000352,2025-02-06,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000436,CUS-000021,2024-02-13,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000437,CUS-000648,2024-05-17,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000438,CUS-000394,2026-09-25,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000439,CUS-000949,2026-06-30,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000440,CUS-000262,2024-12-15,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000441,CUS-000967,2026-03-15,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000442,CUS-000058,2026-01-18,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000443,CUS-000311,2025-12-08,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000444,CUS-000873,2026-06-25,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000445,CUS-000279,2026-04-12,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000446,CUS-000739,2025-10-25,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000447,CUS-000808,2024-11-25,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000448,CUS-000531,2026-05-31,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000449,CUS-000514,2025-12-22,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000450,CUS-000496,2026-04-01,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000451,CUS-000855,2025-01-29,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000452,CUS-000843,2025-10-29,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000453,CUS-001225,2026-10-18,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000454,CUS-000001,2026-04-18,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000455,CUS-001121,2026-01-10,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000456,CUS-000366,2025-10-16,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000457,CUS-000717,2025-01-05,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000458,CUS-000415,2025-10-24,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000459,CUS-000819,2025-03-16,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000460,CUS-000565,2025-12-13,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000461,CUS-000176,2026-03-11,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000462,CUS-000804,2026-02-20,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000463,CUS-000120,2025-12-31,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000464,CUS-000377,2025-03-12,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000465,CUS-000568,2025-04-29,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000466,CUS-001031,2026-02-26,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000467,CUS-001072,2025-09-15,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000468,CUS-000551,2026-03-12,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000469,CUS-000487,2025-05-15,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000470,CUS-000120,2025-09-19,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000471,CUS-000033,2025-10-09,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000472,CUS-000981,2025-08-15,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000473,CUS-000659,2025-09-22,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000474,CUS-000385,2026-05-06,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000475,CUS-000046,2026-10-15,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000476,CUS-000373,2026-01-13,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000477,CUS-000529,2026-01-19,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000478,CUS-000301,2025-06-04,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000479,CUS-000299,2026-09-10,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000480,CUS-000798,2024-11-28,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000481,CUS-000476,2025-01-23,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000482,CUS-000228,2026-06-12,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000483,CUS-000424,2026-07-02,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000484,CUS-000957,2026-07-01,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000485,CUS-000410,2026-02-27,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000486,CUS-000610,2025-05-11,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000487,CUS-001101,2025-02-23,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000488,CUS-000328,2026-10-12,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000489,CUS-000469,2025-08-23,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000490,CUS-000123,2026-03-30,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000491,CUS-000949,2026-08-13,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000492,CUS-000549,2025-01-22,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000493,CUS-000522,2025-04-20,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000494,CUS-000389,2024-12-31,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000495,CUS-000320,2026-01-23,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000496,CUS-000509,2025-05-19,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000497,CUS-000512,2025-06-29,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000498,CUS-000776,2026-09-19,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000499,CUS-000854,2025-09-24,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000500,CUS-001241,2024-08-05,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000501,CUS-000929,2026-08-19,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000502,CUS-000751,2025-09-13,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000503,CUS-000702,2026-06-16,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000504,CUS-000640,2025-08-08,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000505,CUS-000166,2024-07-29,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000506,CUS-000495,2025-04-04,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000507,CUS-001043,2026-02-17,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000508,CUS-000632,2024-11-02,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000509,CUS-000754,2025-09-09,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000510,CUS-000373,2025-10-29,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000511,CUS-000120,2025-09-26,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000512,CUS-001016,2024-11-05,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000513,CUS-000541,2026-07-18,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000514,CUS-000643,2024-12-19,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000515,CUS-000610,2025-10-21,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000516,CUS-000453,2026-01-14,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000517,CUS-000239,2025-08-29,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000518,CUS-000381,2026-06-26,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000519,CUS-000879,2025-11-23,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000520,CUS-000427,2025-09-04,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000521,CUS-000020,2025-04-12,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000522,CUS-000555,2025-02-05,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000523,CUS-001209,2025-04-14,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000524,CUS-000012,2026-01-16,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000525,CUS-000396,2024-12-27,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000526,CUS-000924,2025-11-06,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000527,CUS-000003,2025-05-01,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000528,CUS-000058,2025-06-13,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000529,CUS-000346,2025-02-23,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000530,CUS-000756,2026-03-14,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000531,CUS-000277,2026-08-22,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000532,CUS-001138,2026-02-08,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000533,CUS-001263,2026-01-22,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000534,CUS-000122,2025-07-07,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000535,CUS-000181,2024-12-20,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000536,CUS-000812,2025-04-08,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000537,CUS-000188,2026-07-09,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000538,CUS-000342,2026-09-09,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000539,CUS-000469,2025-11-09,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000540,CUS-001094,2026-06-19,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000541,CUS-000768,2025-04-05,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000542,CUS-000540,2026-04-29,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000543,CUS-000184,2025-06-18,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000544,CUS-001062,2025-05-15,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000545,CUS-000216,2025-08-19,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000546,CUS-000492,2026-01-08,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000547,CUS-001069,2026-02-12,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000548,CUS-000308,2026-01-15,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000549,CUS-000103,2024-08-18,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000550,CUS-000465,2025-05-05,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000551,CUS-000458,2024-08-21,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000552,CUS-000585,2025-09-24,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000553,CUS-000183,2026-06-26,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000554,CUS-000187,2025-10-08,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000555,CUS-000908,2026-08-19,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000556,CUS-000066,2026-02-24,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000557,CUS-000390,2026-08-22,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000558,CUS-000077,2026-01-21,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000559,CUS-000973,2026-08-19,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000560,CUS-000126,2025-07-19,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000561,CUS-000090,2025-03-09,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000562,CUS-000689,2025-08-10,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000563,CUS-000273,2026-02-28,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000564,CUS-000974,2024-12-17,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000565,CUS-000468,2026-05-12,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000566,CUS-001299,2026-04-22,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000567,CUS-000426,2025-04-03,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000568,CUS-000827,2026-05-06,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000569,CUS-000328,2026-01-13,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000570,CUS-001196,2025-11-18,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000571,CUS-000554,2024-11-22,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000572,CUS-001261,2026-09-13,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000573,CUS-000404,2025-05-16,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000574,CUS-000540,2026-01-30,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000575,CUS-000516,2025-10-24,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000576,CUS-000336,2025-01-21,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000577,CUS-000683,2026-08-13,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000578,CUS-000496,2025-06-05,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000579,CUS-000938,2025-12-13,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000580,CUS-000799,2025-04-24,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000581,CUS-001025,2026-01-24,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000582,CUS-001110,2025-09-21,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000583,CUS-000450,2025-03-16,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000584,CUS-000306,2026-01-20,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000585,CUS-000147,2026-01-18,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000586,CUS-000846,2025-12-29,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000587,CUS-001065,2026-02-07,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000588,CUS-000058,2025-08-29,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000589,CUS-000681,2024-12-25,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000590,CUS-001174,2025-04-06,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000591,CUS-000284,2026-02-13,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000592,CUS-000408,2026-01-19,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000593,CUS-001158,2026-01-09,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000594,CUS-000746,2026-07-08,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000595,CUS-001003,2025-09-28,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000596,CUS-000378,2024-07-19,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000597,CUS-000352,2025-10-12,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000598,CUS-000837,2026-02-04,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000599,CUS-000035,2026-03-01,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000600,CUS-000978,2025-11-20,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000601,CUS-001103,2026-08-17,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000602,CUS-000403,2024-03-15,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000603,CUS-000206,2026-02-20,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000604,CUS-001263,2026-06-14,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000605,CUS-001116,2025-11-30,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000606,CUS-000619,2026-04-29,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000607,CUS-000478,2024-01-22,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000608,CUS-000425,2026-03-13,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000609,CUS-001062,2025-05-01,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000610,CUS-000408,2026-03-29,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000611,CUS-001216,2025-07-04,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000612,CUS-000236,2026-04-27,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000613,CUS-001263,2026-08-31,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000614,CUS-000723,2025-04-23,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000615,CUS-000217,2026-09-20,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000616,CUS-001095,2025-11-30,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000617,CUS-000825,2025-09-19,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000618,CUS-001236,2026-01-28,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000619,CUS-000482,2025-01-28,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000620,CUS-000354,2026-10-02,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000621,CUS-001242,2026-03-06,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000622,CUS-000608,2026-01-12,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000623,CUS-000151,2026-01-28,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000624,CUS-000748,2026-07-31,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000625,CUS-001294,2025-11-17,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000626,CUS-000544,2026-03-19,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000627,CUS-000035,2026-02-18,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000628,CUS-001283,2026-01-03,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000629,CUS-000192,2026-05-24,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000630,CUS-000920,2024-04-20,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000631,CUS-000075,2026-07-02,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000632,CUS-000824,2026-04-09,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000633,CUS-000216,2026-07-26,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000634,CUS-000273,2026-03-11,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000635,CUS-000137,2025-06-24,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000636,CUS-000018,2025-11-16,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000637,CUS-000391,2025-01-03,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000638,CUS-000683,2025-10-08,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000639,CUS-000980,2025-12-12,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000640,CUS-000440,2026-01-14,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000641,CUS-001214,2026-02-18,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000642,CUS-000552,2026-05-23,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000643,CUS-000867,2026-03-07,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000644,CUS-000940,2025-02-08,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000645,CUS-000181,2026-10-02,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000646,CUS-000601,2026-10-07,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000647,CUS-000072,2025-11-25,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000648,CUS-000833,2026-01-31,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000649,CUS-001103,2026-07-19,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000650,CUS-000354,2026-02-21,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000651,CUS-000958,2025-07-19,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000652,CUS-000521,2026-07-29,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000653,CUS-000577,2025-01-10,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000654,CUS-001034,2026-02-27,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000655,CUS-001200,2025-05-30,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000656,CUS-000190,2026-02-25,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000657,CUS-001131,2026-06-12,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000658,CUS-000501,2026-06-18,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000659,CUS-001195,2024-04-10,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000660,CUS-000029,2024-10-12,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000661,CUS-000229,2026-01-17,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000662,CUS-000666,2026-08-26,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000663,CUS-000376,2026-02-10,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000664,CUS-000573,2026-09-13,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000665,CUS-000088,2026-08-03,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000666,CUS-000375,2026-09-04,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000667,CUS-001156,2024-09-13,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000668,CUS-000063,2025-11-22,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000669,CUS-000130,2025-08-13,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000670,CUS-001073,2025-02-17,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000671,CUS-000613,2026-05-19,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000672,CUS-000574,2025-07-13,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000673,CUS-000115,2025-11-13,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000674,CUS-000057,2024-10-30,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000675,CUS-000475,2025-03-19,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000676,CUS-001140,2025-02-09,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000677,CUS-000429,2024-12-02,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000678,CUS-000196,2024-12-30,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000679,CUS-000557,2026-04-28,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000680,CUS-000094,2026-08-07,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000681,CUS-000725,2026-07-16,AUTO_COMPREHENSIVE,theft,NORTH,Synthetic theft incident
+INC-CLM-2026-000682,CUS-000443,2026-03-15,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000683,CUS-000989,2025-03-04,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000684,CUS-000410,2025-02-18,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000685,CUS-000473,2024-11-20,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000686,CUS-000889,2025-03-12,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000687,CUS-000173,2025-02-26,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000688,CUS-000068,2026-04-28,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000689,CUS-000118,2024-08-06,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000690,CUS-000667,2025-05-28,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000691,CUS-000867,2026-08-17,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000692,CUS-000474,2024-03-14,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000693,CUS-000590,2026-06-24,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000694,CUS-000564,2026-09-02,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000695,CUS-000171,2026-03-26,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000696,CUS-000316,2024-09-11,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000697,CUS-000609,2024-12-24,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000698,CUS-001295,2024-10-18,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000699,CUS-001013,2026-06-14,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000700,CUS-000796,2026-03-03,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000701,CUS-000922,2026-10-03,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000702,CUS-000251,2026-08-04,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000703,CUS-000277,2026-02-23,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000704,CUS-000878,2026-09-10,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000705,CUS-000706,2026-10-16,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000706,CUS-000188,2025-03-06,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000707,CUS-000467,2025-08-16,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000708,CUS-000487,2026-09-24,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000709,CUS-000513,2026-07-21,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000710,CUS-000372,2026-07-03,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000711,CUS-000569,2025-07-25,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000712,CUS-000317,2025-08-06,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000713,CUS-000398,2025-12-11,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000714,CUS-000026,2024-09-30,HOME_PROPERTY,storm,EAST,Synthetic storm incident
+INC-CLM-2026-000715,CUS-000361,2026-06-28,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000716,CUS-000388,2025-11-06,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000717,CUS-000147,2025-09-30,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000718,CUS-000132,2025-12-18,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000719,CUS-000694,2026-04-20,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000720,CUS-000577,2025-04-19,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000721,CUS-000695,2026-05-18,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000722,CUS-000038,2026-07-29,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000723,CUS-000982,2026-10-15,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000724,CUS-000422,2026-05-02,HOME_PROPERTY,water_damage,EAST,Synthetic water damage incident
+INC-CLM-2026-000725,CUS-000704,2026-10-07,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000726,CUS-000537,2026-02-14,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000727,CUS-000349,2025-01-23,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000728,CUS-000276,2026-04-05,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000729,CUS-000280,2024-10-27,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000730,CUS-000832,2025-10-04,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000731,CUS-000293,2024-09-26,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000732,CUS-000149,2026-03-12,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000733,CUS-001224,2026-10-05,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000734,CUS-000722,2026-01-05,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000735,CUS-000334,2026-05-31,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000736,CUS-000269,2025-08-26,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000737,CUS-000976,2025-03-21,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000738,CUS-000177,2026-10-06,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000739,CUS-001199,2026-04-22,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000740,CUS-000372,2026-10-18,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000741,CUS-000077,2026-03-04,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000742,CUS-000458,2026-06-07,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000743,CUS-001040,2025-12-14,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000744,CUS-000504,2025-03-08,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000745,CUS-000197,2024-05-03,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000746,CUS-000165,2026-10-11,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000747,CUS-000516,2025-12-07,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000748,CUS-000938,2025-12-07,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000749,CUS-000564,2026-06-18,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000750,CUS-000060,2025-05-13,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000751,CUS-000252,2024-11-09,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000752,CUS-000597,2025-07-19,AUTO_COLLISION,weather_event,WEST,Synthetic weather event incident
+INC-CLM-2026-000753,CUS-000034,2024-03-03,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000754,CUS-001151,2025-08-06,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000755,CUS-000249,2025-06-19,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000756,CUS-000016,2025-01-10,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000757,CUS-000751,2024-04-20,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000758,CUS-000155,2024-09-24,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000759,CUS-001215,2024-08-25,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000760,CUS-000181,2024-04-01,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000761,CUS-000617,2025-10-01,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000762,CUS-000308,2025-10-12,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000763,CUS-000487,2025-01-07,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000764,CUS-000046,2024-07-14,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000765,CUS-000331,2024-01-22,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000766,CUS-000670,2026-02-04,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000767,CUS-000065,2025-09-14,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000768,CUS-000329,2024-04-22,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000769,CUS-000973,2025-08-02,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000770,CUS-000798,2024-09-18,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000771,CUS-000232,2025-02-12,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000772,CUS-000273,2025-07-22,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000773,CUS-000636,2024-10-29,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000774,CUS-000524,2024-02-26,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000775,CUS-000568,2024-06-22,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000776,CUS-000564,2025-03-03,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000777,CUS-000387,2025-12-23,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000778,CUS-000063,2025-11-09,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000779,CUS-000069,2024-08-31,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000780,CUS-000305,2024-11-30,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000781,CUS-000363,2024-11-26,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000782,CUS-000696,2024-08-10,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000783,CUS-000638,2025-11-05,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000784,CUS-000495,2025-11-25,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000785,CUS-001017,2025-06-01,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000786,CUS-000991,2024-06-27,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000787,CUS-000512,2024-06-28,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000788,CUS-000507,2024-12-01,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000789,CUS-000904,2024-01-08,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000790,CUS-000648,2024-03-29,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000791,CUS-000905,2024-10-20,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000792,CUS-000230,2024-04-09,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000793,CUS-000230,2024-12-04,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000794,CUS-001129,2025-05-09,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000795,CUS-000074,2024-06-30,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000796,CUS-000695,2025-05-23,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000797,CUS-000305,2024-06-06,AUTO_COMPREHENSIVE,hail,EAST,Synthetic hail incident
+INC-CLM-2026-000798,CUS-000500,2024-12-30,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000799,CUS-000536,2026-02-17,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000800,CUS-000057,2026-10-23,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000801,CUS-000578,2026-03-04,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000802,CUS-000196,2025-04-08,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000803,CUS-000497,2026-09-03,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000804,CUS-000518,2026-04-14,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000805,CUS-000918,2026-01-31,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000806,CUS-000398,2026-11-20,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000807,CUS-000478,2024-12-04,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000808,CUS-000675,2025-12-11,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000809,CUS-000139,2026-04-01,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000810,CUS-000658,2025-08-24,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000811,CUS-000216,2025-04-13,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000812,CUS-000178,2025-05-07,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000813,CUS-000076,2026-10-23,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000814,CUS-000296,2025-03-29,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000815,CUS-000477,2025-12-25,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000816,CUS-000137,2026-01-05,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000817,CUS-000419,2025-12-18,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000818,CUS-000876,2025-07-25,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000819,CUS-001136,2026-11-19,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000820,CUS-001216,2025-08-19,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000821,CUS-000477,2026-06-10,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000822,CUS-000636,2026-11-01,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000823,CUS-000918,2026-01-31,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000824,CUS-000296,2025-12-31,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000825,CUS-001160,2025-11-30,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000826,CUS-000600,2026-09-04,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000827,CUS-000520,2025-05-20,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000828,CUS-000120,2026-08-04,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000829,CUS-000060,2025-05-01,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000830,CUS-001020,2024-08-19,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000831,CUS-000540,2026-05-22,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000832,CUS-000720,2024-11-27,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000833,CUS-000080,2026-02-17,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000834,CUS-001280,2026-01-23,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000835,CUS-000300,2026-06-22,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000836,CUS-000120,2025-09-21,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000837,CUS-000580,2026-03-31,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000838,CUS-000480,2026-10-14,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000839,CUS-000460,2026-02-20,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000840,CUS-001280,2026-01-23,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000841,CUS-000400,2025-04-18,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000842,CUS-001140,2026-04-07,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000843,CUS-000300,2026-06-12,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000844,CUS-001300,2025-07-26,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000845,CUS-001100,2026-05-28,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000846,CUS-000520,2026-03-17,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000847,CUS-000580,2026-03-16,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000848,CUS-000140,2025-01-14,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000849,CUS-001280,2026-01-09,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000850,CUS-001102,2026-08-09,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000851,CUS-001198,2026-03-19,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000852,CUS-000438,2026-02-24,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000853,CUS-000018,2026-04-10,HOME_PROPERTY,storm,WEST,Synthetic storm incident
+INC-CLM-2026-000854,CUS-001167,2026-06-25,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000855,CUS-000166,2025-09-20,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000856,CUS-001110,2026-08-03,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000857,CUS-000202,2026-06-15,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000858,CUS-000290,2026-05-12,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000859,CUS-000876,2024-10-10,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000860,CUS-000411,2025-12-29,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000861,CUS-000593,2026-08-14,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000862,CUS-000488,2026-06-11,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000863,CUS-001155,2026-07-28,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000864,CUS-000064,2026-07-19,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000865,CUS-000460,2025-12-06,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000866,CUS-000112,2026-08-02,THIRD_PARTY_LIABILITY,property_damage,EAST,Synthetic property damage incident
+INC-CLM-2026-000867,CUS-000749,2025-11-09,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident
+INC-CLM-2026-000868,CUS-000225,2025-03-31,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000869,CUS-000319,2026-06-22,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000870,CUS-001075,2026-03-12,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000871,CUS-000066,2025-10-24,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000872,CUS-000083,2026-03-03,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000873,CUS-000802,2026-05-16,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000874,CUS-000454,2025-10-15,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000875,CUS-000389,2025-11-03,AUTO_COMPREHENSIVE,hail,SOUTH,Synthetic hail incident
+INC-CLM-2026-000876,CUS-000551,2024-12-15,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000877,CUS-000968,2026-03-25,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000878,CUS-000731,2025-02-08,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000879,CUS-000256,2026-06-20,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000880,CUS-000866,2026-08-29,HOME_PROPERTY,water_damage,WEST,Synthetic water damage incident
+INC-CLM-2026-000881,CUS-000571,2025-08-02,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000882,CUS-000995,2025-12-09,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000883,CUS-000228,2025-09-15,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000884,CUS-000091,2025-11-29,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000885,CUS-000355,2026-03-11,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000886,CUS-000424,2024-04-24,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000887,CUS-000785,2026-06-17,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000888,CUS-000595,2026-08-05,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000889,CUS-000097,2024-06-13,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000890,CUS-000226,2026-04-17,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000891,CUS-000555,2024-12-08,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-000892,CUS-001180,2025-07-31,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000893,CUS-001115,2025-06-17,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000894,CUS-000750,2026-08-10,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000895,CUS-000867,2026-09-25,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000896,CUS-000971,2026-01-06,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000897,CUS-000984,2025-12-28,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000898,CUS-000065,2026-04-24,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000899,CUS-000919,2025-06-07,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000900,CUS-000666,2026-06-10,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000901,CUS-000214,2025-02-12,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000902,CUS-000296,2025-02-27,AUTO_COLLISION,collision,SOUTH,Synthetic collision incident
+INC-CLM-2026-000903,CUS-000459,2026-02-28,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000904,CUS-000482,2026-07-10,AUTO_COLLISION,collision,WEST,Synthetic collision incident
+INC-CLM-2026-000905,CUS-000157,2025-08-29,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000906,CUS-000417,2024-10-09,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000907,CUS-000247,2026-08-20,AUTO_COLLISION,weather_event,EAST,Synthetic weather event incident
+INC-CLM-2026-000908,CUS-000037,2024-06-23,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000909,CUS-000726,2026-02-07,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000950,CUS-000128,2026-02-06,THIRD_PARTY_LIABILITY,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000951,CUS-000663,2026-10-02,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000952,CUS-000207,2026-05-22,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000953,CUS-000798,2025-01-20,HOME_PROPERTY,water_damage,SOUTH,Synthetic water damage incident
+INC-CLM-2026-000954,CUS-000733,2025-09-09,AUTO_COMPREHENSIVE,hail,WEST,Synthetic hail incident
+INC-CLM-2026-000955,CUS-000080,2024-09-17,THIRD_PARTY_LIABILITY,property_damage,WEST,Synthetic property damage incident
+INC-CLM-2026-000956,CUS-001065,2026-03-25,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000957,CUS-001218,2025-05-02,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000958,CUS-000699,2026-10-12,HEALTH_MEDICAL,accidental_injury,NORTH,Synthetic accidental injury incident
+INC-CLM-2026-000959,CUS-001233,2024-05-07,AUTO_COLLISION,weather_event,SOUTH,Synthetic weather event incident
+INC-CLM-2026-000960,CUS-000017,2024-07-29,AUTO_COLLISION,collision,EAST,Synthetic collision incident
+INC-CLM-2026-000961,CUS-000736,2025-10-13,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000962,CUS-000163,2024-12-21,HEALTH_MEDICAL,illness,NORTH,Synthetic illness incident
+INC-CLM-2026-000963,CUS-001272,2026-02-16,THIRD_PARTY_LIABILITY,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000964,CUS-000245,2025-10-03,AUTO_COMPREHENSIVE,theft,SOUTH,Synthetic theft incident
+INC-CLM-2026-000965,CUS-000278,2026-02-22,HOME_PROPERTY,water_damage,NORTH,Synthetic water damage incident
+INC-CLM-2026-000966,CUS-000506,2025-12-23,HOME_PROPERTY,storm,NORTH,Synthetic storm incident
+INC-CLM-2026-000967,CUS-000141,2026-06-21,AUTO_COMPREHENSIVE,theft,EAST,Synthetic theft incident
+INC-CLM-2026-000968,CUS-000271,2026-07-23,HEALTH_MEDICAL,illness,SOUTH,Synthetic illness incident
+INC-CLM-2026-000969,CUS-000424,2026-03-29,THIRD_PARTY_LIABILITY,property_damage,NORTH,Synthetic property damage incident
+INC-CLM-2026-000970,CUS-000676,2024-10-24,THIRD_PARTY_LIABILITY,intentional_injury,SOUTH,Synthetic intentional injury incident
+INC-CLM-2026-000971,CUS-000540,2026-02-03,THIRD_PARTY_LIABILITY,intentional_injury,SOUTH,Synthetic intentional injury incident
+INC-CLM-2026-000972,CUS-000630,2026-08-02,HOME_PROPERTY,maintenance_neglect,NORTH,Synthetic maintenance neglect incident
+INC-CLM-2026-000973,CUS-000045,2025-10-06,AUTO_COMPREHENSIVE,intentional_loss,NORTH,Synthetic intentional loss incident
+INC-CLM-2026-000974,CUS-000065,2025-10-05,AUTO_COLLISION,intentional_damage,SOUTH,Synthetic intentional damage incident
+INC-CLM-2026-000975,CUS-000283,2024-12-24,HEALTH_MEDICAL,cosmetic_procedure,NORTH,Synthetic cosmetic procedure incident
+INC-CLM-2026-000976,CUS-000577,2025-05-12,AUTO_COLLISION,wear_and_tear,WEST,Synthetic wear and tear incident
+INC-CLM-2026-000977,CUS-000419,2025-11-15,HEALTH_MEDICAL,pre_existing_condition,EAST,Synthetic pre existing condition incident
+INC-CLM-2026-000978,CUS-000802,2026-08-26,HOME_PROPERTY,wear_and_tear,EAST,Synthetic wear and tear incident
+INC-CLM-2026-000979,CUS-000805,2026-09-04,AUTO_COMPREHENSIVE,intentional_loss,EAST,Synthetic intentional loss incident
+INC-CLM-2026-000980,CUS-000920,2024-04-08,THIRD_PARTY_LIABILITY,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000981,CUS-000395,2024-05-20,HEALTH_MEDICAL,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000982,CUS-000011,2025-08-15,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000983,CUS-000468,2026-06-23,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000984,CUS-000374,2025-08-27,HOME_PROPERTY,fire,WEST,Synthetic fire incident
+INC-CLM-2026-000985,CUS-000314,2026-02-05,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000986,CUS-000026,2026-07-18,HOME_PROPERTY,storm,SOUTH,Synthetic storm incident
+INC-CLM-2026-000987,CUS-000448,2025-01-30,THIRD_PARTY_LIABILITY,accidental_injury,EAST,Synthetic accidental injury incident
+INC-CLM-2026-000988,CUS-000478,2024-10-10,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000989,CUS-000470,2025-03-17,HOME_PROPERTY,fire,EAST,Synthetic fire incident
+INC-CLM-2026-000990,CUS-000451,2025-12-08,HEALTH_MEDICAL,accidental_injury,SOUTH,Synthetic accidental injury incident
+INC-CLM-2026-000991,CUS-000250,2026-05-15,HOME_PROPERTY,fire,NORTH,Synthetic fire incident
+INC-CLM-2026-000992,CUS-000553,2026-07-03,AUTO_COLLISION,collision,NORTH,Synthetic collision incident
+INC-CLM-2026-000993,CUS-001249,2025-09-08,AUTO_COMPREHENSIVE,theft,WEST,Synthetic theft incident
+INC-CLM-2026-000994,CUS-000122,2026-01-19,HOME_PROPERTY,fire,SOUTH,Synthetic fire incident
+INC-CLM-2026-000995,CUS-000124,2025-10-17,THIRD_PARTY_LIABILITY,property_damage,SOUTH,Synthetic property damage incident
+INC-CLM-2026-000996,CUS-000503,2026-05-17,HEALTH_MEDICAL,illness,EAST,Synthetic illness incident
+INC-CLM-2026-000997,CUS-000939,2026-09-23,HEALTH_MEDICAL,illness,WEST,Synthetic illness incident
+INC-CLM-2026-000998,CUS-001291,2025-12-21,HEALTH_MEDICAL,accidental_injury,WEST,Synthetic accidental injury incident
+INC-CLM-2026-000999,CUS-000333,2026-04-04,AUTO_COMPREHENSIVE,hail,NORTH,Synthetic hail incident
+INC-CLM-2026-001000,CUS-001141,2026-06-01,AUTO_COLLISION,weather_event,NORTH,Synthetic weather event incident

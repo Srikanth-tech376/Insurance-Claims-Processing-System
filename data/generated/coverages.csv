@@ -1,0 +1,6 @@
+coverage_id,code,name,product_type,claim_type,required_documents_json
+COV-001,AUTO_COLLISION,Collision damage,AUTO,AUTO_COLLISION,"[""incident_report"", ""repair_estimate"", ""photos""]"
+COV-002,AUTO_COMPREHENSIVE,Comprehensive loss,AUTO,AUTO_COMPREHENSIVE,"[""incident_report"", ""proof_of_loss"", ""photos""]"
+COV-003,HOME_PROPERTY,Home property damage,HOME,HOME_PROPERTY,"[""incident_report"", ""repair_estimate"", ""proof_of_loss""]"
+COV-004,HEALTH_MEDICAL,Medical expense,HEALTH,HEALTH_MEDICAL,"[""medical_invoice"", ""medical_report"", ""proof_of_identity""]"
+COV-005,THIRD_PARTY_LIABILITY,Third-party liability,LIABILITY,THIRD_PARTY_LIABILITY,"[""incident_report"", ""third_party_statement"", ""evidence""]"
